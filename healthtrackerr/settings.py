@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-j=qi!!8@47s)=h+^a24zc33_@h&y&xvs6-es58#)4aljmr=(0%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "https://pbp.cs.ui.ac.id/made.izzy/healthtrackerr"]
 
 
 # Application definition
